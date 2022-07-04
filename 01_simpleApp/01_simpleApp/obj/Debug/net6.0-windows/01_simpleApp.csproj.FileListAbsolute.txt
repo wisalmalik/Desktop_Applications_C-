@@ -1,0 +1,17 @@
+C:\C sharp workspace\01_simpleApp\01_simpleApp\bin\Debug\net6.0-windows\01_simpleApp.exe
+C:\C sharp workspace\01_simpleApp\01_simpleApp\bin\Debug\net6.0-windows\01_simpleApp.deps.json
+C:\C sharp workspace\01_simpleApp\01_simpleApp\bin\Debug\net6.0-windows\01_simpleApp.runtimeconfig.json
+C:\C sharp workspace\01_simpleApp\01_simpleApp\bin\Debug\net6.0-windows\01_simpleApp.dll
+C:\C sharp workspace\01_simpleApp\01_simpleApp\bin\Debug\net6.0-windows\01_simpleApp.pdb
+C:\C sharp workspace\01_simpleApp\01_simpleApp\obj\Debug\net6.0-windows\01_simpleApp.csproj.AssemblyReference.cache
+C:\C sharp workspace\01_simpleApp\01_simpleApp\obj\Debug\net6.0-windows\_01_simpleApp.Form1.resources
+C:\C sharp workspace\01_simpleApp\01_simpleApp\obj\Debug\net6.0-windows\01_simpleApp.csproj.GenerateResource.cache
+C:\C sharp workspace\01_simpleApp\01_simpleApp\obj\Debug\net6.0-windows\01_simpleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp workspace\01_simpleApp\01_simpleApp\obj\Debug\net6.0-windows\01_simpleApp.AssemblyInfoInputs.cache
+C:\C sharp workspace\01_simpleApp\01_simpleApp\obj\Debug\net6.0-windows\01_simpleApp.AssemblyInfo.cs
+C:\C sharp workspace\01_simpleApp\01_simpleApp\obj\Debug\net6.0-windows\01_simpleApp.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\01_simpleApp\01_simpleApp\obj\Debug\net6.0-windows\01_simpleApp.dll
+C:\C sharp workspace\01_simpleApp\01_simpleApp\obj\Debug\net6.0-windows\refint\01_simpleApp.dll
+C:\C sharp workspace\01_simpleApp\01_simpleApp\obj\Debug\net6.0-windows\01_simpleApp.pdb
+C:\C sharp workspace\01_simpleApp\01_simpleApp\obj\Debug\net6.0-windows\01_simpleApp.genruntimeconfig.cache
+C:\C sharp workspace\01_simpleApp\01_simpleApp\obj\Debug\net6.0-windows\ref\01_simpleApp.dll
