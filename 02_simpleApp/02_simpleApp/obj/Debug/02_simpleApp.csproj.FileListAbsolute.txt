@@ -1,0 +1,11 @@
+C:\C sharp workspace\02_simpleApp\02_simpleApp\bin\Debug\02_simpleApp.exe.config
+C:\C sharp workspace\02_simpleApp\02_simpleApp\bin\Debug\02_simpleApp.exe
+C:\C sharp workspace\02_simpleApp\02_simpleApp\bin\Debug\02_simpleApp.pdb
+C:\C sharp workspace\02_simpleApp\02_simpleApp\obj\Debug\02_simpleApp.csproj.AssemblyReference.cache
+C:\C sharp workspace\02_simpleApp\02_simpleApp\obj\Debug\02_simpleApp.csproj.SuggestedBindingRedirects.cache
+C:\C sharp workspace\02_simpleApp\02_simpleApp\obj\Debug\_02_simpleApp.MainForm.resources
+C:\C sharp workspace\02_simpleApp\02_simpleApp\obj\Debug\_02_simpleApp.Properties.Resources.resources
+C:\C sharp workspace\02_simpleApp\02_simpleApp\obj\Debug\02_simpleApp.csproj.GenerateResource.cache
+C:\C sharp workspace\02_simpleApp\02_simpleApp\obj\Debug\02_simpleApp.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\02_simpleApp\02_simpleApp\obj\Debug\02_simpleApp.exe
+C:\C sharp workspace\02_simpleApp\02_simpleApp\obj\Debug\02_simpleApp.pdb
