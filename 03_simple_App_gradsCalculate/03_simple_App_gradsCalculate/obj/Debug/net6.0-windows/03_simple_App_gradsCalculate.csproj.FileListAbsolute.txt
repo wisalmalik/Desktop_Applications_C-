@@ -1,0 +1,17 @@
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\bin\Debug\net6.0-windows\03_simple_App_gradsCalculate.exe
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\bin\Debug\net6.0-windows\03_simple_App_gradsCalculate.deps.json
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\bin\Debug\net6.0-windows\03_simple_App_gradsCalculate.runtimeconfig.json
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\bin\Debug\net6.0-windows\03_simple_App_gradsCalculate.dll
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\bin\Debug\net6.0-windows\03_simple_App_gradsCalculate.pdb
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\obj\Debug\net6.0-windows\03_simple_App_gradsCalculate.csproj.AssemblyReference.cache
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\obj\Debug\net6.0-windows\_03_simple_App_gradsCalculate.Form1.resources
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\obj\Debug\net6.0-windows\03_simple_App_gradsCalculate.csproj.GenerateResource.cache
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\obj\Debug\net6.0-windows\03_simple_App_gradsCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\obj\Debug\net6.0-windows\03_simple_App_gradsCalculate.AssemblyInfoInputs.cache
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\obj\Debug\net6.0-windows\03_simple_App_gradsCalculate.AssemblyInfo.cs
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\obj\Debug\net6.0-windows\03_simple_App_gradsCalculate.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\obj\Debug\net6.0-windows\03_simple_App_gradsCalculate.dll
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\obj\Debug\net6.0-windows\refint\03_simple_App_gradsCalculate.dll
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\obj\Debug\net6.0-windows\03_simple_App_gradsCalculate.pdb
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\obj\Debug\net6.0-windows\03_simple_App_gradsCalculate.genruntimeconfig.cache
+C:\C sharp workspace\03_simple_App_gradsCalculate\03_simple_App_gradsCalculate\obj\Debug\net6.0-windows\ref\03_simple_App_gradsCalculate.dll
