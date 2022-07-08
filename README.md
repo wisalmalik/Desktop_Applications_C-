@@ -34,7 +34,7 @@ In c# we use the integer of the button , but in the future if commit some change
 
 --------------------------------------------------ReadMe about 06 simple app--------------------------------------------
 
-In this app i learn and apply that who to open one form with the other form 
+In this app i learn and apply that how to open one form with the other form 
 
 .) To open one form with the another . we need one button-> double click on the button in the visual studio the code is open 
 .)To active button create the object of the form who you want to open by clicking the button
@@ -42,6 +42,22 @@ In this app i learn and apply that who to open one form with the other form
 
 
 
+#######################################################################################
+
+
+--------------------------------------------------ReadMe about 12 simple app--------------------------------------------
+
+In this app i learn and apply that how to allow the drap and drop opetion in the textbox  
+
+.)first go to the properties and True the drap option
+.)second go to event and select the drap Enter->and  write the code
+
+
+            // this line of code till us that what effect is created,
+            e.Effect = DragDropEffects.Copy;
+            //what add in the textbox1.Text -> add the text in the  box 
+            textBox1.Text  = e.Data.GetData(DataFormats.Text).ToString();
+        
 
 
 
