@@ -1,0 +1,17 @@
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\bin\Debug\net6.0-windows\05_simple_app_enum.exe
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\bin\Debug\net6.0-windows\05_simple_app_enum.deps.json
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\bin\Debug\net6.0-windows\05_simple_app_enum.runtimeconfig.json
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\bin\Debug\net6.0-windows\05_simple_app_enum.dll
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\bin\Debug\net6.0-windows\05_simple_app_enum.pdb
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\obj\Debug\net6.0-windows\05_simple_app_enum.csproj.AssemblyReference.cache
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\obj\Debug\net6.0-windows\_05_simple_app_enum.Form1.resources
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\obj\Debug\net6.0-windows\05_simple_app_enum.csproj.GenerateResource.cache
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\obj\Debug\net6.0-windows\05_simple_app_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\obj\Debug\net6.0-windows\05_simple_app_enum.AssemblyInfoInputs.cache
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\obj\Debug\net6.0-windows\05_simple_app_enum.AssemblyInfo.cs
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\obj\Debug\net6.0-windows\05_simple_app_enum.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\obj\Debug\net6.0-windows\05_simple_app_enum.dll
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\obj\Debug\net6.0-windows\refint\05_simple_app_enum.dll
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\obj\Debug\net6.0-windows\05_simple_app_enum.pdb
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\obj\Debug\net6.0-windows\05_simple_app_enum.genruntimeconfig.cache
+C:\C sharp workspace\05_simple_app_enum\05_simple_app_enum\obj\Debug\net6.0-windows\ref\05_simple_app_enum.dll
