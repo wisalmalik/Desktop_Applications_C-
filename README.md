@@ -103,12 +103,17 @@ In this app i learn and build the smile app which take the current date and time
 
 --------------------------------------------------ReadMe about 16 simple app--------------------------------------------
 
-In this app i learn and build the simle app which contain the menustrip 
+In this app i learn and build the simle app which contain and tooltip control the menustrip 
 
 .) Menustrip is a tool which is present in the toool bar drap and drop the menustrip
 .)add shortcut with the help of the properties
 .)write some certain code 
-.
+
+===> Tooltip control
+
+.) for the tooltip control firt add picturebox and add the quesstion mark icon 
+.) After that add tooltip in the form from the toolbar
+.)After that click on the image/Icon and write the massage you what to show 
 
 
 
