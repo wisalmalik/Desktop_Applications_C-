@@ -80,8 +80,21 @@ In this app i learn and apply that how to allow the drap and drop opetion in the
         
 
 
+#######################################################################################
 
 
+--------------------------------------------------ReadMe about 15 simple app--------------------------------------------
+
+
+In this app i learn and build the smile app which take the current date and time of the computer 
+
+.) firt drop the datetimepicker or label tool after that write the following code.
+                    // the following code is for the label
+                    label1.Text = DateTime.Now.ToLongDateString();
+                    label2.Text = DateTime.Now.ToLongTimeString();
+                    
+                    // the following code is for the datetimepicker
+                    dateTimePicker1.Text = DateTime.Now.ToLongDateString();
 
 
 
