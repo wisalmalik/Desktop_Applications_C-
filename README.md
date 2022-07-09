@@ -98,7 +98,17 @@ In this app i learn and build the smile app which take the current date and time
                     dateTimePicker1.Text = DateTime.Now.ToLongDateString();
 
 
+#######################################################################################
 
+
+--------------------------------------------------ReadMe about 16 simple app--------------------------------------------
+
+In this app i learn and build the simle app which contain the menustrip 
+
+.) Menustrip is a tool which is present in the toool bar drap and drop the menustrip
+.)add shortcut with the help of the properties
+.)write some certain code 
+.
 
 
 
