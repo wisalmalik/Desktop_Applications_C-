@@ -44,6 +44,24 @@ In this app i learn and apply that how to open one form with the other form
 
 #######################################################################################
 
+--------------------------------------------------ReadMe about 07 simple app--------------------------------------------
+
+In this app i learn and apply tha how to open the show and showdialog box by clicking the button 
+
+.)The show method will create model form -> model form mean model form is opened then you can't use the rest of the app till model form is closed
+                                          //code of the open the show box
+                                          Form2 f2 = new Form2();
+                                            f2.Show();
+                                            
+.)The showdialog method will create modeless form -> modeless form mean modeless form is opened , this method will create model form 
+
+                                    //code of the open the showdialog show box
+                                    Form2 f2 = new Form2();
+                                    f2.ShowDialog();
+
+
+#######################################################################################
+
 
 --------------------------------------------------ReadMe about 12 simple app--------------------------------------------
 
