@@ -1,0 +1,10 @@
+C:\C sharp workspace\09_simpleApp_changeIcon\09_simpleApp_changeIcon\bin\Debug\09_simpleApp_changeIcon.exe.config
+C:\C sharp workspace\09_simpleApp_changeIcon\09_simpleApp_changeIcon\bin\Debug\09_simpleApp_changeIcon.exe
+C:\C sharp workspace\09_simpleApp_changeIcon\09_simpleApp_changeIcon\bin\Debug\09_simpleApp_changeIcon.pdb
+C:\C sharp workspace\09_simpleApp_changeIcon\09_simpleApp_changeIcon\obj\Debug\09_simpleApp_changeIcon.csproj.AssemblyReference.cache
+C:\C sharp workspace\09_simpleApp_changeIcon\09_simpleApp_changeIcon\obj\Debug\09_simpleApp_changeIcon.csproj.SuggestedBindingRedirects.cache
+C:\C sharp workspace\09_simpleApp_changeIcon\09_simpleApp_changeIcon\obj\Debug\_09_simpleApp_changeIcon.Properties.Resources.resources
+C:\C sharp workspace\09_simpleApp_changeIcon\09_simpleApp_changeIcon\obj\Debug\09_simpleApp_changeIcon.csproj.GenerateResource.cache
+C:\C sharp workspace\09_simpleApp_changeIcon\09_simpleApp_changeIcon\obj\Debug\09_simpleApp_changeIcon.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\09_simpleApp_changeIcon\09_simpleApp_changeIcon\obj\Debug\09_simpleApp_changeIcon.exe
+C:\C sharp workspace\09_simpleApp_changeIcon\09_simpleApp_changeIcon\obj\Debug\09_simpleApp_changeIcon.pdb
