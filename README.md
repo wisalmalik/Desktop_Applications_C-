@@ -117,9 +117,41 @@ In this app i learn and build the simle app which contain and tooltip control th
 
 
 
+#######################################################################################
 
 
+--------------------------------------------------ReadMe about 19 simple app--------------------------------------------
 
+In this app i learn and build the smile app which i restrict the ueser to enter the right input in the textbox
+
+.)First select the textbox ->go to event section-> select key press .
+.)write the following code 
+
+//cod for the restrict user input
+ if ((!char.IsLetter(e.KeyChar)) && (!char.IsWhiteSpace(e.KeyChar)) && (!char.IsControl(e.KeyChar)))
+            {
+            //this line of code:restrict to not enter any type of key 
+                e.Handled= true;
+
+            }
+            
+  .)In the following code the first check is for the letter , the second check is for the whitespac , the 3RD check i for the controle (mean delete button etc)
+  
+      //following code is for the Interger enter
+      
+            if ((!char.IsNumber(e.KeyChar)  &&(!char.IsControl(e.KeyChar))))
+            {
+                e.Handled = true;
+
+            }
+  .)For the email we need three thing letter, digits, @ and dot, for the dot and @ we use the assicc value 
+  
+            //The Following code is for the email
+             if ((!char.IsLetter(e.KeyChar)) && ( e.KeyChar !=46) &&(e.KeyChar !=64)&& (!char.IsControl(e.KeyChar)))
+            {
+                e.Handled = true;
+
+            }
 
 
 
