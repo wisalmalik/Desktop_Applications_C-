@@ -127,11 +127,11 @@ In this app i learn and build the smile app which i restrict the ueser to enter 
 .)First select the textbox ->go to event section-> select key press .
 .)write the following code 
 
-//cod for the restrict user input
- if ((!char.IsLetter(e.KeyChar)) && (!char.IsWhiteSpace(e.KeyChar)) && (!char.IsControl(e.KeyChar)))
-            {
-            //this line of code:restrict to not enter any type of key 
-                e.Handled= true;
+          //cod for the restrict user input
+           if ((!char.IsLetter(e.KeyChar)) && (!char.IsWhiteSpace(e.KeyChar)) && (!char.IsControl(e.KeyChar)))
+                      {
+                      //this line of code:restrict to not enter any type of key 
+                          e.Handled= true;
 
             }
             
