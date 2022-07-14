@@ -158,3 +158,85 @@ In this app i learn and build the smile app which i restrict the ueser to enter 
 
 
 
+#######################################################################################
+
+
+--------------------------------------------------ReadMe about 20 simple app--------------------------------------------
+
+
+In this app i lean and build the app , this app is about the to store the username so user have easy to login 
+
+.)the username is save in the bin folder of the project 
+.)i write the code to read the text form the txt box 
+.)if the useranme is correct and user are successful login then it save the user name in the file 
+
+                     //this line the code check the username and password
+                                if(usernamebox.Text == "admin" && Passwordbox.Text == "password")
+                                {
+                                    //if the username and password are correct then it create the  file in the bin folder 
+
+                                    using (StreamWriter streamwriter = new StreamWriter("username.txt"))
+                                    {
+                                        //read the text from the usertextbox
+                                        streamwriter.WriteLine(usernamebox.Text);
+                                    }
+
+                                    this.Hide();
+
+                                    Form2 f2 = new Form2();
+                                    f2.Visible = true;
+                                }
+                                else
+                                {
+                                    MessageBox.Show("the user name or password are wrong","Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                                    usernamebox.Clear();
+                                    Passwordbox.Clear();    
+                                    usernamebox.Focus();
+
+                                }
+
+
+
+
+.)for the read the file write the code in the form , 
+
+
+                             //this code is inplment in the form 
+                                        // this line of code read the username for the username.txt file 
+                                        using (StreamReader streamReader = new StreamReader("username.Txt"))
+                                        {
+                                            usernamebox.Text = streamReader.ReadLine();
+                                        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
