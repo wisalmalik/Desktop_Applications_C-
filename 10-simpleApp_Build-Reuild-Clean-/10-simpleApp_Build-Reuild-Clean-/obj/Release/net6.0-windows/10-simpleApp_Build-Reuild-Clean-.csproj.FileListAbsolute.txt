@@ -1,0 +1,17 @@
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\bin\Release\net6.0-windows\10-simpleApp_Build-Reuild-Clean-.exe
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\bin\Release\net6.0-windows\10-simpleApp_Build-Reuild-Clean-.deps.json
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\bin\Release\net6.0-windows\10-simpleApp_Build-Reuild-Clean-.runtimeconfig.json
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\bin\Release\net6.0-windows\10-simpleApp_Build-Reuild-Clean-.dll
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\bin\Release\net6.0-windows\10-simpleApp_Build-Reuild-Clean-.pdb
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\obj\Release\net6.0-windows\10-simpleApp_Build-Reuild-Clean-.csproj.AssemblyReference.cache
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\obj\Release\net6.0-windows\_10_simpleApp_Build_Reuild_Clean_.Form1.resources
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\obj\Release\net6.0-windows\10-simpleApp_Build-Reuild-Clean-.csproj.GenerateResource.cache
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\obj\Release\net6.0-windows\10-simpleApp_Build-Reuild-Clean-.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\obj\Release\net6.0-windows\10-simpleApp_Build-Reuild-Clean-.AssemblyInfoInputs.cache
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\obj\Release\net6.0-windows\10-simpleApp_Build-Reuild-Clean-.AssemblyInfo.cs
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\obj\Release\net6.0-windows\10-simpleApp_Build-Reuild-Clean-.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\obj\Release\net6.0-windows\10-simpleApp_Build-Reuild-Clean-.dll
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\obj\Release\net6.0-windows\refint\10-simpleApp_Build-Reuild-Clean-.dll
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\obj\Release\net6.0-windows\10-simpleApp_Build-Reuild-Clean-.pdb
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\obj\Release\net6.0-windows\10-simpleApp_Build-Reuild-Clean-.genruntimeconfig.cache
+C:\C sharp workspace\10-simpleApp_Build-Reuild-Clean-\10-simpleApp_Build-Reuild-Clean-\obj\Release\net6.0-windows\ref\10-simpleApp_Build-Reuild-Clean-.dll
