@@ -1,0 +1,17 @@
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\bin\Debug\net6.0-windows\11-simpleApp-Anchor-Properties.exe
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\bin\Debug\net6.0-windows\11-simpleApp-Anchor-Properties.deps.json
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\bin\Debug\net6.0-windows\11-simpleApp-Anchor-Properties.runtimeconfig.json
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\bin\Debug\net6.0-windows\11-simpleApp-Anchor-Properties.dll
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\bin\Debug\net6.0-windows\11-simpleApp-Anchor-Properties.pdb
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\obj\Debug\net6.0-windows\11-simpleApp-Anchor-Properties.csproj.AssemblyReference.cache
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\obj\Debug\net6.0-windows\_11_simpleApp_Anchor_Properties.Form1.resources
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\obj\Debug\net6.0-windows\11-simpleApp-Anchor-Properties.csproj.GenerateResource.cache
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\obj\Debug\net6.0-windows\11-simpleApp-Anchor-Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\obj\Debug\net6.0-windows\11-simpleApp-Anchor-Properties.AssemblyInfoInputs.cache
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\obj\Debug\net6.0-windows\11-simpleApp-Anchor-Properties.AssemblyInfo.cs
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\obj\Debug\net6.0-windows\11-simpleApp-Anchor-Properties.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\obj\Debug\net6.0-windows\11-simpleApp-Anchor-Properties.dll
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\obj\Debug\net6.0-windows\refint\11-simpleApp-Anchor-Properties.dll
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\obj\Debug\net6.0-windows\11-simpleApp-Anchor-Properties.pdb
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\obj\Debug\net6.0-windows\11-simpleApp-Anchor-Properties.genruntimeconfig.cache
+C:\C sharp workspace\11-simpleApp-Anchor-Properties\11-simpleApp-Anchor-Properties\obj\Debug\net6.0-windows\ref\11-simpleApp-Anchor-Properties.dll
