@@ -1,0 +1,17 @@
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\bin\Debug\net6.0-windows\12-simpleApp-DrapDrop.exe
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\bin\Debug\net6.0-windows\12-simpleApp-DrapDrop.deps.json
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\bin\Debug\net6.0-windows\12-simpleApp-DrapDrop.runtimeconfig.json
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\bin\Debug\net6.0-windows\12-simpleApp-DrapDrop.dll
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\bin\Debug\net6.0-windows\12-simpleApp-DrapDrop.pdb
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\obj\Debug\net6.0-windows\12-simpleApp-DrapDrop.csproj.AssemblyReference.cache
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\obj\Debug\net6.0-windows\_12_simpleApp_DrapDrop.Form1.resources
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\obj\Debug\net6.0-windows\12-simpleApp-DrapDrop.csproj.GenerateResource.cache
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\obj\Debug\net6.0-windows\12-simpleApp-DrapDrop.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\obj\Debug\net6.0-windows\12-simpleApp-DrapDrop.AssemblyInfoInputs.cache
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\obj\Debug\net6.0-windows\12-simpleApp-DrapDrop.AssemblyInfo.cs
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\obj\Debug\net6.0-windows\12-simpleApp-DrapDrop.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\obj\Debug\net6.0-windows\12-simpleApp-DrapDrop.dll
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\obj\Debug\net6.0-windows\refint\12-simpleApp-DrapDrop.dll
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\obj\Debug\net6.0-windows\12-simpleApp-DrapDrop.pdb
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\obj\Debug\net6.0-windows\12-simpleApp-DrapDrop.genruntimeconfig.cache
+C:\C sharp workspace\12-simpleApp-DrapDrop\12-simpleApp-DrapDrop\obj\Debug\net6.0-windows\ref\12-simpleApp-DrapDrop.dll
