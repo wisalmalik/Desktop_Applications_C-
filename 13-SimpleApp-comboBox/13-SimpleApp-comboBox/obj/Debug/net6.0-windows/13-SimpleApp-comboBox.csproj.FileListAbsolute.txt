@@ -1,0 +1,17 @@
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\bin\Debug\net6.0-windows\13-SimpleApp-comboBox.exe
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\bin\Debug\net6.0-windows\13-SimpleApp-comboBox.deps.json
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\bin\Debug\net6.0-windows\13-SimpleApp-comboBox.runtimeconfig.json
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\bin\Debug\net6.0-windows\13-SimpleApp-comboBox.dll
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\bin\Debug\net6.0-windows\13-SimpleApp-comboBox.pdb
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\obj\Debug\net6.0-windows\13-SimpleApp-comboBox.csproj.AssemblyReference.cache
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\obj\Debug\net6.0-windows\_13_SimpleApp_comboBox.Form1.resources
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\obj\Debug\net6.0-windows\13-SimpleApp-comboBox.csproj.GenerateResource.cache
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\obj\Debug\net6.0-windows\13-SimpleApp-comboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\obj\Debug\net6.0-windows\13-SimpleApp-comboBox.AssemblyInfoInputs.cache
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\obj\Debug\net6.0-windows\13-SimpleApp-comboBox.AssemblyInfo.cs
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\obj\Debug\net6.0-windows\13-SimpleApp-comboBox.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\obj\Debug\net6.0-windows\13-SimpleApp-comboBox.dll
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\obj\Debug\net6.0-windows\refint\13-SimpleApp-comboBox.dll
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\obj\Debug\net6.0-windows\13-SimpleApp-comboBox.pdb
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\obj\Debug\net6.0-windows\13-SimpleApp-comboBox.genruntimeconfig.cache
+C:\C sharp workspace\13-SimpleApp-comboBox\13-SimpleApp-comboBox\obj\Debug\net6.0-windows\ref\13-SimpleApp-comboBox.dll
