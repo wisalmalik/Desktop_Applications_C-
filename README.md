@@ -211,7 +211,27 @@ In this app i lean and build the app , this app is about the to store the userna
 
 
 
+#######################################################################################
 
+
+--------------------------------------------------ReadMe about 22 simple app--------------------------------------------
+In this i lean and buil the simeple application . in which i set the different backgound and the transprant properties 
+
+.) for the backgound i use the following code 
+
+           
+           Graphics mgrphic = e.Graphics;
+            Pen pen = new(Color.FromArgb(24, 40, 72), 1);
+
+            Rectangle area = new Rectangle(0, 0, this.Width - 1, this.Height - 1);
+            LinearGradientBrush lgb = new LinearGradientBrush(area, Color.FromArgb(24, 40, 72), Color.FromArgb(130, 122, 255), LinearGradientMode.Vertical);
+            mgrphic.FillRectangle(lgb, area);
+            mgrphic.DrawRectangle(pen, area);
+          
+          
+ .) for the transprancey i use the following code
+ 
+              groupBox.BackColor = System.Drawing.Color.Transparent;
 
 
 
