@@ -1,0 +1,17 @@
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\bin\Debug\net6.0-windows\14-simpleApp-DateTimePicker.exe
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\bin\Debug\net6.0-windows\14-simpleApp-DateTimePicker.deps.json
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\bin\Debug\net6.0-windows\14-simpleApp-DateTimePicker.runtimeconfig.json
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\bin\Debug\net6.0-windows\14-simpleApp-DateTimePicker.dll
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\bin\Debug\net6.0-windows\14-simpleApp-DateTimePicker.pdb
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\obj\Debug\net6.0-windows\14-simpleApp-DateTimePicker.csproj.AssemblyReference.cache
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\obj\Debug\net6.0-windows\_14_simpleApp_DateTimePicker.Form1.resources
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\obj\Debug\net6.0-windows\14-simpleApp-DateTimePicker.csproj.GenerateResource.cache
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\obj\Debug\net6.0-windows\14-simpleApp-DateTimePicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\obj\Debug\net6.0-windows\14-simpleApp-DateTimePicker.AssemblyInfoInputs.cache
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\obj\Debug\net6.0-windows\14-simpleApp-DateTimePicker.AssemblyInfo.cs
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\obj\Debug\net6.0-windows\14-simpleApp-DateTimePicker.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\obj\Debug\net6.0-windows\14-simpleApp-DateTimePicker.dll
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\obj\Debug\net6.0-windows\refint\14-simpleApp-DateTimePicker.dll
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\obj\Debug\net6.0-windows\14-simpleApp-DateTimePicker.pdb
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\obj\Debug\net6.0-windows\14-simpleApp-DateTimePicker.genruntimeconfig.cache
+C:\C sharp workspace\14-simpleApp-DateTimePicker\14-simpleApp-DateTimePicker\obj\Debug\net6.0-windows\ref\14-simpleApp-DateTimePicker.dll
