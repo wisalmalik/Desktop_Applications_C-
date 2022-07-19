@@ -1,0 +1,17 @@
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\bin\Debug\net6.0-windows\15-SimpleApp-desplay-Current-time.exe
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\bin\Debug\net6.0-windows\15-SimpleApp-desplay-Current-time.deps.json
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\bin\Debug\net6.0-windows\15-SimpleApp-desplay-Current-time.runtimeconfig.json
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\bin\Debug\net6.0-windows\15-SimpleApp-desplay-Current-time.dll
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\bin\Debug\net6.0-windows\15-SimpleApp-desplay-Current-time.pdb
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\obj\Debug\net6.0-windows\15-SimpleApp-desplay-Current-time.csproj.AssemblyReference.cache
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\obj\Debug\net6.0-windows\_15_SimpleApp_desplay_Current_time.Form1.resources
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\obj\Debug\net6.0-windows\15-SimpleApp-desplay-Current-time.csproj.GenerateResource.cache
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\obj\Debug\net6.0-windows\15-SimpleApp-desplay-Current-time.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\obj\Debug\net6.0-windows\15-SimpleApp-desplay-Current-time.AssemblyInfoInputs.cache
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\obj\Debug\net6.0-windows\15-SimpleApp-desplay-Current-time.AssemblyInfo.cs
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\obj\Debug\net6.0-windows\15-SimpleApp-desplay-Current-time.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\obj\Debug\net6.0-windows\15-SimpleApp-desplay-Current-time.dll
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\obj\Debug\net6.0-windows\refint\15-SimpleApp-desplay-Current-time.dll
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\obj\Debug\net6.0-windows\15-SimpleApp-desplay-Current-time.pdb
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\obj\Debug\net6.0-windows\15-SimpleApp-desplay-Current-time.genruntimeconfig.cache
+C:\C sharp workspace\15-SimpleApp-desplay-Current-time\15-SimpleApp-desplay-Current-time\obj\Debug\net6.0-windows\ref\15-SimpleApp-desplay-Current-time.dll
