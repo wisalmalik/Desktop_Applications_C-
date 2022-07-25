@@ -1,0 +1,17 @@
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\bin\Debug\net6.0-windows\17-simpleApp-Data-Entry-Form.exe
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\bin\Debug\net6.0-windows\17-simpleApp-Data-Entry-Form.deps.json
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\bin\Debug\net6.0-windows\17-simpleApp-Data-Entry-Form.runtimeconfig.json
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\bin\Debug\net6.0-windows\17-simpleApp-Data-Entry-Form.dll
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\bin\Debug\net6.0-windows\17-simpleApp-Data-Entry-Form.pdb
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\obj\Debug\net6.0-windows\17-simpleApp-Data-Entry-Form.csproj.AssemblyReference.cache
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\obj\Debug\net6.0-windows\_17_simpleApp_Data_Entry_Form.Form1.resources
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\obj\Debug\net6.0-windows\17-simpleApp-Data-Entry-Form.csproj.GenerateResource.cache
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\obj\Debug\net6.0-windows\17-simpleApp-Data-Entry-Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\obj\Debug\net6.0-windows\17-simpleApp-Data-Entry-Form.AssemblyInfoInputs.cache
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\obj\Debug\net6.0-windows\17-simpleApp-Data-Entry-Form.AssemblyInfo.cs
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\obj\Debug\net6.0-windows\17-simpleApp-Data-Entry-Form.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\obj\Debug\net6.0-windows\17-simpleApp-Data-Entry-Form.dll
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\obj\Debug\net6.0-windows\refint\17-simpleApp-Data-Entry-Form.dll
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\obj\Debug\net6.0-windows\17-simpleApp-Data-Entry-Form.pdb
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\obj\Debug\net6.0-windows\17-simpleApp-Data-Entry-Form.genruntimeconfig.cache
+C:\C sharp workspace\17-simpleApp-Data-Entry-Form\17-simpleApp-Data-Entry-Form\obj\Debug\net6.0-windows\ref\17-simpleApp-Data-Entry-Form.dll

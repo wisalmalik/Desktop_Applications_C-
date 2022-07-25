@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "17-simpleApp-Data-Entry-Form/1.0.0": {
+        "runtime": {
+          "17-simpleApp-Data-Entry-Form.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "17-simpleApp-Data-Entry-Form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
