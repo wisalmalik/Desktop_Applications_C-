@@ -1,0 +1,17 @@
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\bin\Debug\net6.0-windows\19-Restiricting-user-enter-Specificinformation.exe
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\bin\Debug\net6.0-windows\19-Restiricting-user-enter-Specificinformation.deps.json
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\bin\Debug\net6.0-windows\19-Restiricting-user-enter-Specificinformation.runtimeconfig.json
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\bin\Debug\net6.0-windows\19-Restiricting-user-enter-Specificinformation.dll
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\bin\Debug\net6.0-windows\19-Restiricting-user-enter-Specificinformation.pdb
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\obj\Debug\net6.0-windows\19-Restiricting-user-enter-Specificinformation.csproj.AssemblyReference.cache
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\obj\Debug\net6.0-windows\_19_Restiricting_user_enter_Specificinformation.Form1.resources
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\obj\Debug\net6.0-windows\19-Restiricting-user-enter-Specificinformation.csproj.GenerateResource.cache
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\obj\Debug\net6.0-windows\19-Restiricting-user-enter-Specificinformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\obj\Debug\net6.0-windows\19-Restiricting-user-enter-Specificinformation.AssemblyInfoInputs.cache
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\obj\Debug\net6.0-windows\19-Restiricting-user-enter-Specificinformation.AssemblyInfo.cs
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\obj\Debug\net6.0-windows\19-Restiricting-user-enter-Specificinformation.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\obj\Debug\net6.0-windows\19-Restiricting-user-enter-Specificinformation.dll
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\obj\Debug\net6.0-windows\refint\19-Restiricting-user-enter-Specificinformation.dll
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\obj\Debug\net6.0-windows\19-Restiricting-user-enter-Specificinformation.pdb
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\obj\Debug\net6.0-windows\19-Restiricting-user-enter-Specificinformation.genruntimeconfig.cache
+C:\C sharp workspace\19-Restiricting-user-enter-Specificinformation\19-Restiricting-user-enter-Specificinformation\obj\Debug\net6.0-windows\ref\19-Restiricting-user-enter-Specificinformation.dll
