@@ -1,0 +1,17 @@
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\bin\Debug\net6.0-windows\18-SimpleApp-Move-cursor-toNextBox.exe
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\bin\Debug\net6.0-windows\18-SimpleApp-Move-cursor-toNextBox.deps.json
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\bin\Debug\net6.0-windows\18-SimpleApp-Move-cursor-toNextBox.runtimeconfig.json
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\bin\Debug\net6.0-windows\18-SimpleApp-Move-cursor-toNextBox.dll
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\bin\Debug\net6.0-windows\18-SimpleApp-Move-cursor-toNextBox.pdb
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\obj\Debug\net6.0-windows\18-SimpleApp-Move-cursor-toNextBox.csproj.AssemblyReference.cache
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\obj\Debug\net6.0-windows\_18_SimpleApp_Move_cursor_toNextBox.Form1.resources
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\obj\Debug\net6.0-windows\18-SimpleApp-Move-cursor-toNextBox.csproj.GenerateResource.cache
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\obj\Debug\net6.0-windows\18-SimpleApp-Move-cursor-toNextBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\obj\Debug\net6.0-windows\18-SimpleApp-Move-cursor-toNextBox.AssemblyInfoInputs.cache
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\obj\Debug\net6.0-windows\18-SimpleApp-Move-cursor-toNextBox.AssemblyInfo.cs
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\obj\Debug\net6.0-windows\18-SimpleApp-Move-cursor-toNextBox.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\obj\Debug\net6.0-windows\18-SimpleApp-Move-cursor-toNextBox.dll
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\obj\Debug\net6.0-windows\refint\18-SimpleApp-Move-cursor-toNextBox.dll
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\obj\Debug\net6.0-windows\18-SimpleApp-Move-cursor-toNextBox.pdb
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\obj\Debug\net6.0-windows\18-SimpleApp-Move-cursor-toNextBox.genruntimeconfig.cache
+C:\C sharp workspace\18-SimpleApp-Move-cursor-toNextBox\18-SimpleApp-Move-cursor-toNextBox\obj\Debug\net6.0-windows\ref\18-SimpleApp-Move-cursor-toNextBox.dll
