@@ -1,0 +1,36 @@
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\bin\Debug\net6.0-windows\21-SimpleApp-gradient-Color.exe
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\bin\Debug\net6.0-windows\21-SimpleApp-gradient-Color.deps.json
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\bin\Debug\net6.0-windows\21-SimpleApp-gradient-Color.runtimeconfig.json
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\bin\Debug\net6.0-windows\21-SimpleApp-gradient-Color.dll
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\bin\Debug\net6.0-windows\21-SimpleApp-gradient-Color.pdb
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.csproj.AssemblyReference.cache
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\_21_SimpleApp_gradient_Color.Form1.resources
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.csproj.GenerateResource.cache
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.AssemblyInfoInputs.cache
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.AssemblyInfo.cs
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.csproj.CoreCompileInputs.cache
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.dll
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\refint\21-SimpleApp-gradient-Color.dll
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.pdb
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.genruntimeconfig.cache
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\ref\21-SimpleApp-gradient-Color.dll
+C:\Users\wisal\source\repos\21-SimpleApp-gradient-Color\21-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\_21_SimpleApp_gradient_Color.Form2.resources
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\bin\Debug\net6.0-windows\21-SimpleApp-gradient-Color.exe
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\bin\Debug\net6.0-windows\21-SimpleApp-gradient-Color.deps.json
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\bin\Debug\net6.0-windows\21-SimpleApp-gradient-Color.runtimeconfig.json
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\bin\Debug\net6.0-windows\21-SimpleApp-gradient-Color.dll
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\bin\Debug\net6.0-windows\21-SimpleApp-gradient-Color.pdb
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.csproj.AssemblyReference.cache
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\_21_SimpleApp_gradient_Color.Form1.resources
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\_21_SimpleApp_gradient_Color.Form2.resources
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.csproj.GenerateResource.cache
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.AssemblyInfoInputs.cache
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.AssemblyInfo.cs
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.csproj.CoreCompileInputs.cache
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.dll
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\refint\21-SimpleApp-gradient-Color.dll
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.pdb
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\21-SimpleApp-gradient-Color.genruntimeconfig.cache
+C:\C sharp workspace\22-SimpleApp-gradient-Color\22-SimpleApp-gradient-Color\obj\Debug\net6.0-windows\ref\21-SimpleApp-gradient-Color.dll
